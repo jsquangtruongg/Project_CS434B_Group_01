@@ -29,6 +29,8 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>Nguyễn Quang Trường</p>
+      <p>Nguyễn Quang Trường 2</p>
+      <p></p>
     </>
   );
 }
